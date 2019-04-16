@@ -1,3 +1,3 @@
 # ethereum
 Ethereumについてのまとめ.
-- https://scrapbox.io/sola/Ethereum
+- https://scrapbox.io/solareenlo/Ethereum
